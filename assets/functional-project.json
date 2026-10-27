@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "product": {"name": "Product Function Demo", "purpose": "Functional motion graphics without Blender"},
+  "format": {"width": 1280, "height": 720, "fps": 24, "duration_beats": 24},
+  "rhythm": {"bpm": 120, "offset_seconds": 0, "events": [0, 8, 12, 16, 20]},
+  "asset": {"source": null, "demo": false}, "visuals": [],
+  "style": {"background": "#0a140e", "text": "#eceee5", "accent": "#a7cbb0"},
+  "overlays": [
+    {"type": "title", "start_beat": 0, "end_beat": 16, "text": "FROM ACTION TO RESULT", "subtitle": "Functional illustration - replace with real product content"},
+    {"type": "text-workflow", "start_beat": 0, "end_beat": 16, "text": "Your words become text.", "actions": ["Select", "Copy", "Paste", "Undo"]},
+    {"type": "title", "start_beat": 16, "end_beat": 24, "text": "IMMEDIATE FEEDBACK"},
+    {"type": "progress", "start_beat": 16, "end_beat": 24, "from": 20, "to": 85, "label": "Adjust the control. See the result."}
+  ],
+  "audio": {"mode": "synth", "master_peak": -2.5, "verify_peak": -1},
+  "render": {}, "tools": {}, "output_dir": "output",
+  "provenance": {"visuals": "Designed functional illustration; not an app recording or a device test."}
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用产品展示视频"
+  short_description: "用照片、视频和三维模型制作产品展示，包含运镜、转场、功能动效和节拍剪辑"
+  default_prompt: "使用 $product-showcase-film，把当前产品素材制作成展示视频，设计连续运镜、功能动效和节拍转场，并导出可复用工程与成片。"

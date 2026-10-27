@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "product": {"name": "Modular Object", "purpose": "Generic rigid-parts pipeline demonstration"},
+  "format": {"width": 640, "height": 360, "fps": 24, "duration_beats": 8},
+  "rhythm": {"bpm": 120, "offset_seconds": 0, "events": [0, 2, 4, 6]},
+  "asset": {"source": null, "demo": true},
+  "camera": {"projection": "perspective", "lens_mm": 50, "keyframes": [
+    {"beat": 0, "target": [0, 0, 0], "distance": 2.8, "azimuth": -115, "elevation": 35},
+    {"beat": 4, "target": [0.06, 0, 0.08], "distance": 2.2, "azimuth": -85, "elevation": 40},
+    {"beat": 8, "target": [0, 0, 0], "distance": 2.8, "azimuth": -65, "elevation": 32}
+  ]},
+  "motions": [
+    {"objects": ["DemoCover"], "keyframes": [
+      {"beat": 0, "translate": [0, 0, 0]}, {"beat": 2, "translate": [0, 0, 0.25]},
+      {"beat": 5, "translate": [0, 0, 0.25]}, {"beat": 7, "translate": [0, 0, 0]}
+    ]},
+    {"objects": ["DemoInsert"], "keyframes": [
+      {"beat": 0, "translate": [0, 0, 0]}, {"beat": 2, "translate": [0, 0, 0]},
+      {"beat": 3, "translate": [0, 0, 0.12]}, {"beat": 4, "translate": [0, 0, 0.12]},
+      {"beat": 5, "translate": [0, 0, 0]}
+    ]}
+  ],
+  "anchors": {"insert": "DemoInsert"},
+  "style": {"background": "#0a140e", "text": "#eceee5", "accent": "#a7cbb0"},
+  "overlays": [
+    {"type": "title", "start_beat": 0, "end_beat": 8, "text": "MODULAR OBJECT", "subtitle": "Primitive demo - not a real product model", "size": 48},
+    {"type": "carrier", "start_beat": 2, "end_beat": 5, "from": "insert", "to": [0.82, 0.3], "radius_from": 0.01, "radius_to": 0.04}
+  ],
+  "audio": {"mode": "synth", "seed": 7, "master_peak": -2.5, "verify_peak": -1},
+  "render": {"samples": 8, "percentage": 100},
+  "tools": {}, "output_dir": "output",
+  "provenance": {"model": "Built-in generic primitive demonstration; no external project assets."}
+}
