@@ -77,6 +77,6 @@ python scripts/showcase.py render work/project.json
 ## 相关技能
 
 - [jlc-easyeda-design](https://github.com/Ibook000/jlc-easyeda-design)：嘉立创EDA原理图、电气审核与 PCB 设计流程。
-- [easyeda-design-film](https://github.com/Ibook000/easyeda-design-film)：根据真实工程素材制作原理图、PCB 与三维设计过程视频。
+- [product-enclosure-design](https://github.com/Ibook000/product-enclosure-design)：产品外壳建模、装配与开孔、STL 导出检查。
 
 这两个技能不是本仓库的运行依赖。
