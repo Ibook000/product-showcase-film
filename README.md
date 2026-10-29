@@ -8,9 +8,9 @@
 
 **语音快捷键盘 · 36 秒产品展示**：连续三维运镜、轴体与键帽拆装、语音输入和快捷键功能动效。
 
-[![语音快捷键盘：三维运镜、拆装与功能动效的加速预览](docs/media/preview.gif)](https://github.com/Ibook000/product-showcase-film/raw/refs/heads/main/docs/media/keyboard-showcase.mp4)
+[![语音快捷键盘：三维运镜、拆装与功能动效的加速预览](docs/media/preview.gif)](https://raw.githubusercontent.com/Ibook000/product-showcase-film/main/docs/media/keyboard-showcase.mp4)
 
-**[▶ 观看完整视频 · 36 秒 / 720p / 含音乐](https://github.com/Ibook000/product-showcase-film/raw/refs/heads/main/docs/media/keyboard-showcase.mp4)** · [打开 MP4 文件页](docs/media/keyboard-showcase.mp4) · [案例制作说明](references/keyboard-case.md)
+**[▶ 观看完整视频 · 36 秒 / 720p / 含音乐](https://raw.githubusercontent.com/Ibook000/product-showcase-film/main/docs/media/keyboard-showcase.mp4)** · [打开 MP4 文件页](docs/media/keyboard-showcase.mp4) · [案例制作说明](references/keyboard-case.md)
 
 上方 GIF 是静音、4 倍速预览，点击可观看原速成片。播放器无法直接打开时，可从 MP4 文件页下载。
 
