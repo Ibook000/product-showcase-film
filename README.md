@@ -4,6 +4,27 @@
 
 适用于产品宣传、毕业设计展示和功能演示。支持实物与软件产品；不限定产品类型、配色、时长或音乐风格。
 
+## 先看效果
+
+**语音快捷键盘 · 36 秒产品展示**：连续三维运镜、轴体与键帽拆装、语音输入和快捷键功能动效。
+
+[![语音快捷键盘：三维运镜、拆装与功能动效的加速预览](docs/media/preview.gif)](https://github.com/Ibook000/product-showcase-film/raw/refs/heads/main/docs/media/keyboard-showcase.mp4)
+
+**[▶ 观看完整视频 · 36 秒 / 720p / 含音乐](https://github.com/Ibook000/product-showcase-film/raw/refs/heads/main/docs/media/keyboard-showcase.mp4)** · [打开 MP4 文件页](docs/media/keyboard-showcase.mp4) · [案例制作说明](references/keyboard-case.md)
+
+上方 GIF 是静音、4 倍速预览，点击可观看原速成片。播放器无法直接打开时，可从 MP4 文件页下载。
+
+| 产品外观与材质 | 功能画面与反馈 |
+| --- | --- |
+| ![语音快捷键盘工程模型渲染封面](docs/media/keyboard-cover.jpg) | ![从成片提取的功能动效画面](docs/media/functional-frame.jpg) |
+| 外壳、屏幕、按键与旋钮的统一取景 | 把产品动作和使用结果连接起来 |
+
+这个案例使用原始产品模型与定制动效制作，展示技能的创作方法；仓库内的通用脚本另附独立几何示例。模型画面是工程渲染，语音与编辑画面是功能示意。公开演示媒体见 [素材说明](docs/media/README.md)。
+
+## 从素材到交付
+
+产品模型 / 照片 / 视频 → 分镜与动作设计 → 关键片段预览 → 运镜、转场与声音 → MP4、关键帧和可修改工程。
+
 ## 能做什么
 
 | 场景 | 方法 |
